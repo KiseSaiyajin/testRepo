@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 Changes from fix1
->>>>>>> a21fc67 (header changes)
 Some text for header
 Changes from <main>=new changes!!!
 
